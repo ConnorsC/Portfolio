@@ -1,0 +1,47 @@
+body {
+  margin: 0 auto;
+  max-width: 100em;
+
+}
+
+.navbar{
+    background-color: #BAB6B5;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #BAB6B5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+
+}
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
+
+/* The "Forgot password" text */
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+.nav .active { background:#2a2d33 }
+
+.navbar-brand
+{
+     margin-left:50px !important;
+}
